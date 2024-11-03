@@ -1,0 +1,4 @@
+Overwrited the contents of file now!
+Next new line added now
+Next new line added now
+Next new line added now

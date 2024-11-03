@@ -1,0 +1,6 @@
+Hi this is a new text file
+We will be learning to use basic I/O operations on Files
+So we will need this text file to open and read the contents of this file
+We will now save this file
+
+newly added line to this file
