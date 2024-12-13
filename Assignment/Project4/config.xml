@@ -1,0 +1,6 @@
+<config>
+    <regex>
+        <questions>"\d+\.\s[A-Za-z0-9?.! ]*"</questions>
+        <answers>"Answer: *[A-Z)]*\s[A-Za-z]*"</answers>
+    </regex>
+</config>
